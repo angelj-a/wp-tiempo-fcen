@@ -1,2 +1,2 @@
-# wp-tiempo-fcen
-Widget para wordpress que muestra estado del tiempo en Ciudad Universitaria (datos del sitio del DCAO)
+# WP Tiempo FCEN (no oficial)
+Widget para wordpress que muestra estado del tiempo en Ciudad Universitaria (usando datos del sitio del DCAO).
